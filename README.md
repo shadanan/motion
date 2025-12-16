@@ -57,3 +57,18 @@ To install individual templates:
 3. Restart Final Cut Pro X if it's running
 
 4. The template will appear in the Titles or Effects browser
+
+## Contributing
+
+If you've made changes to the templates in Motion and want to sync them back to this repository:
+
+```bash
+rsync -av --delete \
+  "$HOME/Movies/Motion Templates.localized/Titles.localized/Friendly TL/" \
+  "$HOME/Workspace/motion/titles/"
+rsync -av --delete \
+  "$HOME/Movies/Motion Templates.localized/Effects.localized/Friendly TL/" \
+  "$HOME/Workspace/motion/effects/"
+```
+
+This will copy the installed templates back to the git project, keeping everything in sync.
