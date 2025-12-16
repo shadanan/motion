@@ -17,7 +17,9 @@ Open source Apple Motion 5 templates for Final Cut Pro X.
 
 ### Effects
 
-- **Popper** - Popping visual effect
+- **Circle Mask** - A circular mask with a border
+- **Full Popper** - Popping effect that scales up to 125% then settles at 100%
+- **Scaled Popper** - Popping effect that scales up to 100% and settles at 80%
 
 ## Installation
 

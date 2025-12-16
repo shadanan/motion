@@ -61,7 +61,7 @@
 	<cameraType>0</cameraType>
 	<cameraName>Active Camera</cameraName>
 	<mirrorHMD>0</mirrorHMD>
-	<panZoom camera="0" zoom="1.4197916984558105" panX="5" panY="6" mode="2" centered="1"/>
+	<panZoom camera="0" zoom="0.75937497615814209" panX="5" panY="54" mode="2" centered="1"/>
 </viewer>
 
 <projectPanel>
@@ -98,7 +98,7 @@
 	<displayEffects>1</displayEffects>
 	<videoVerticalZoom>1.5555555555555556</videoVerticalZoom>
 	<audioVerticalZoom>1.5555555555555556</audioVerticalZoom>
-	<displayRange in="-35416993 1330468750 3 0" out="1027619936 1000000000 3 0"/>
+	<displayRange in="-75401016 1243750000 3 0" out="1061623932 1000000000 3 0"/>
 </timeline>
 
 <curveeditor>
@@ -106,8 +106,8 @@
 	<snapping>0</snapping>
 	<displayAudioWaveform>0</displayAudioWaveform>
 	<lockKeyframesInTime>0</lockKeyframesInTime>
-	<displayRange in="-35416993 1330468750 3 0" out="1027619936 1000000000 3 0"/>
-	<currentviewvolume originx="-0.026619936018790369" originy="-62.5" width="1.0542398719999999" height="125"/>
+	<displayRange in="-75401016 1243750000 3 0" out="1061623932 1000000000 3 0"/>
+	<currentviewvolume originx="-0.060623932462311556" originy="-62.5" width="1.122247864" height="125"/>
 	<snapshotChannels>0</snapshotChannels>
 </curveeditor>
 
@@ -152,7 +152,7 @@
 	<publishSettings>
 		<version>2</version>
 	</publishSettings>
-	<currentFrame>88088 120000 1 0</currentFrame>
+	<currentFrame>28028 120000 1 0</currentFrame>
 	<currentObject>3296421866</currentObject>
 	<activeLayer>3296421863</activeLayer>
 	<timeRange offset="0 1 1 0" duration="120120 120000 1 0"/>
@@ -221,7 +221,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>28028 120000 1 0</time>
-									<value>1</value>
+									<value>1.25</value>
 									<inputTangentTime>-0.077855555555555553</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.022244444444444442</outputTangentTime>
@@ -229,7 +229,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>36036 120000 1 0</time>
-									<value>0.80000000000000004</value>
+									<value>1</value>
 									<inputTangentTime>-0.022244444399999997</inputTangentTime>
 									<inputTangentValue>-0</inputTangentValue>
 									<outputTangentTime>0.12234444432941177</outputTangentTime>
@@ -237,7 +237,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>80080 120000 1 0</time>
-									<value>0.80000000000000004</value>
+									<value>1</value>
 									<inputTangentTime>-0.12234444434666666</inputTangentTime>
 									<inputTangentValue>4.0748885714592111e-16</inputTangentValue>
 									<outputTangentTime>0.022244444399999997</outputTangentTime>
@@ -245,7 +245,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>88088 120000 1 0</time>
-									<value>1</value>
+									<value>1.25</value>
 									<inputTangentTime>-0.022244444444444438</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.077855555555555553</outputTangentTime>
@@ -274,7 +274,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>28028 120000 1 0</time>
-									<value>1</value>
+									<value>1.25</value>
 									<inputTangentTime>-0.077855555555555553</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.022244444444444442</outputTangentTime>
@@ -282,7 +282,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>36036 120000 1 0</time>
-									<value>0.80000000000000004</value>
+									<value>1</value>
 									<inputTangentTime>-0.022244444399999997</inputTangentTime>
 									<inputTangentValue>-0</inputTangentValue>
 									<outputTangentTime>0.12234444432941177</outputTangentTime>
@@ -290,7 +290,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>80080 120000 1 0</time>
-									<value>0.80000000000000004</value>
+									<value>1</value>
 									<inputTangentTime>-0.12234444434666666</inputTangentTime>
 									<inputTangentValue>4.0748885714592111e-16</inputTangentValue>
 									<outputTangentTime>0.022244444399999997</outputTangentTime>
@@ -298,7 +298,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>88088 120000 1 0</time>
-									<value>1</value>
+									<value>1.25</value>
 									<inputTangentTime>-0.022244444444444438</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.077855555555555553</outputTangentTime>
@@ -327,7 +327,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>28028 120000 1 0</time>
-									<value>1</value>
+									<value>1.25</value>
 									<inputTangentTime>-0.077855555555555553</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.022244444444444442</outputTangentTime>
@@ -335,7 +335,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>36036 120000 1 0</time>
-									<value>0.80000000000000004</value>
+									<value>1</value>
 									<inputTangentTime>-0.022244444399999997</inputTangentTime>
 									<inputTangentValue>-0</inputTangentValue>
 									<outputTangentTime>0.12234444432941177</outputTangentTime>
@@ -343,7 +343,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>80080 120000 1 0</time>
-									<value>0.80000000000000004</value>
+									<value>1</value>
 									<inputTangentTime>-0.12234444434666666</inputTangentTime>
 									<inputTangentValue>4.0748885714592111e-16</inputTangentValue>
 									<outputTangentTime>0.022244444399999997</outputTangentTime>
@@ -351,7 +351,7 @@
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
 									<time>88088 120000 1 0</time>
-									<value>1</value>
+									<value>1.25</value>
 									<inputTangentTime>-0.022244444444444438</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.077855555555555553</outputTangentTime>
