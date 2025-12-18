@@ -48,7 +48,7 @@
 	<resolutionMode>0</resolutionMode>
 	<dynamicResolution>1</dynamicResolution>
 	<viewmode>0</viewmode>
-	<overlayOptions>125452</overlayOptions>
+	<overlayOptions>125708</overlayOptions>
 	<oscOptions>30</oscOptions>
 	<compensateAspectRatio>1</compensateAspectRatio>
 	<renderFields>0</renderFields>
@@ -113,7 +113,7 @@
 	<displayAudioWaveform>0</displayAudioWaveform>
 	<lockKeyframesInTime>0</lockKeyframesInTime>
 	<displayRange in="-44225500 1663085937 3 0" out="1026592432 1000000000 3 0"/>
-	<currentviewvolume originx="-0.02659243218650342" originy="-106.25" width="1.0531848640000001" height="137.5"/>
+	<currentviewvolume originx="-0.02659243218650342" originy="-62.5" width="1.0531848640000001" height="125"/>
 	<snapshotChannels>0</snapshotChannels>
 </curveeditor>
 
@@ -162,6 +162,7 @@
 		<target object="3296714177" channel="./1/100/105" name="Scale"/>
 	</publishSettings>
 	<currentFrame>151040 153600 1 0</currentFrame>
+	<currentObject>3296714180</currentObject>
 	<activeLayer>3296714177</activeLayer>
 	<timeRange offset="0 1 1 0" duration="153600 153600 1 0"/>
 	<playRange offset="0 1 1 0" duration="153600 153600 1 0"/>
@@ -179,7 +180,7 @@
 			<type>8</type>
 		</timemarker>
 		<timemarker>
-			<inpoint>104960 153600 1 0</inpoint>
+			<inpoint>102400 153600 1 0</inpoint>
 			<color>1</color>
 			<type>6</type>
 		</timemarker>
@@ -212,11 +213,11 @@
 	<layer name="Group" id="3296714177">
 		<scenenode name="Effect Source" id="3296714180" factoryID="3" version="5">
 			<validTracks>1</validTracks>
-			<aspectRatio>0</aspectRatio>
+			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
 			<timing in="0 1 1 0" out="151040 153600 1 0" offset="0 1 1 0"/>
 			<foldFlags>16384</foldFlags>
-			<baseFlags>524304</baseFlags>
+			<baseFlags>268959761</baseFlags>
 			<parameter name="Properties" id="1" flags="8589938704">
 				<parameter name="Transform" id="100" flags="8589938704">
 					<parameter name="Scale" id="105" flags="8589938704">
@@ -243,29 +244,29 @@
 								<keypoint interpolation="1" flags="0">
 									<time>48640 153600 1 0</time>
 									<value>1</value>
-									<outputTangentTime>0.1222222222222222</outputTangentTime>
+									<outputTangentTime>0.11666666666666664</outputTangentTime>
 									<outputTangentValue>0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
-									<time>104960 153600 1 0</time>
+									<time>13107200 19660800 3 0</time>
 									<value>1</value>
-									<inputTangentTime>-0.1222222222222222</inputTangentTime>
+									<inputTangentTime>-0.11666666666666653</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
-									<outputTangentTime>0.02222222222222222</outputTangentTime>
+									<outputTangentTime>0.022222222222222199</outputTangentTime>
 									<outputTangentValue>0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
-									<time>115200 153600 1 0</time>
+									<time>14417920 19660800 3 0</time>
 									<value>1.25</value>
-									<inputTangentTime>-0.022222222399999998</inputTangentTime>
+									<inputTangentTime>-0.022222222400000088</inputTangentTime>
 									<inputTangentValue>-0</inputTangentValue>
-									<outputTangentTime>0.077777777599999987</outputTangentTime>
+									<outputTangentTime>0.083333333142857111</outputTangentTime>
 									<outputTangentValue>-0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="1" flags="0">
 									<time>151040 153600 1 0</time>
 									<value>0</value>
-									<inputTangentTime>-0.077777777777777779</inputTangentTime>
+									<inputTangentTime>-0.083333333333333287</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.10000000000000001</outputTangentTime>
 									<outputTangentValue>-0</outputTangentValue>
@@ -294,29 +295,29 @@
 								<keypoint interpolation="1" flags="0">
 									<time>48640 153600 1 0</time>
 									<value>1</value>
-									<outputTangentTime>0.1222222222222222</outputTangentTime>
+									<outputTangentTime>0.11666666666666664</outputTangentTime>
 									<outputTangentValue>0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
-									<time>104960 153600 1 0</time>
+									<time>13107200 19660800 3 0</time>
 									<value>1</value>
-									<inputTangentTime>-0.1222222222222222</inputTangentTime>
+									<inputTangentTime>-0.11666666666666653</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
-									<outputTangentTime>0.02222222222222222</outputTangentTime>
+									<outputTangentTime>0.022222222222222199</outputTangentTime>
 									<outputTangentValue>0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
-									<time>115200 153600 1 0</time>
+									<time>14417920 19660800 3 0</time>
 									<value>1.25</value>
-									<inputTangentTime>-0.022222222399999998</inputTangentTime>
+									<inputTangentTime>-0.022222222400000088</inputTangentTime>
 									<inputTangentValue>-0</inputTangentValue>
-									<outputTangentTime>0.077777777599999987</outputTangentTime>
+									<outputTangentTime>0.083333333142857111</outputTangentTime>
 									<outputTangentValue>-0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="1" flags="0">
 									<time>151040 153600 1 0</time>
 									<value>0</value>
-									<inputTangentTime>-0.077777777777777779</inputTangentTime>
+									<inputTangentTime>-0.083333333333333287</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.10000000000000001</outputTangentTime>
 									<outputTangentValue>-0</outputTangentValue>
@@ -345,29 +346,29 @@
 								<keypoint interpolation="1" flags="0">
 									<time>48640 153600 1 0</time>
 									<value>1</value>
-									<outputTangentTime>0.1222222222222222</outputTangentTime>
+									<outputTangentTime>0.11666666666666664</outputTangentTime>
 									<outputTangentValue>0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
-									<time>104960 153600 1 0</time>
+									<time>13107200 19660800 3 0</time>
 									<value>1</value>
-									<inputTangentTime>-0.1222222222222222</inputTangentTime>
+									<inputTangentTime>-0.11666666666666653</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
-									<outputTangentTime>0.02222222222222222</outputTangentTime>
+									<outputTangentTime>0.022222222222222199</outputTangentTime>
 									<outputTangentValue>0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="15" flags="0">
-									<time>115200 153600 1 0</time>
+									<time>14417920 19660800 3 0</time>
 									<value>1.25</value>
-									<inputTangentTime>-0.022222222399999998</inputTangentTime>
+									<inputTangentTime>-0.022222222400000088</inputTangentTime>
 									<inputTangentValue>-0</inputTangentValue>
-									<outputTangentTime>0.077777777599999987</outputTangentTime>
+									<outputTangentTime>0.083333333142857111</outputTangentTime>
 									<outputTangentValue>-0</outputTangentValue>
 								</keypoint>
 								<keypoint interpolation="1" flags="0">
 									<time>151040 153600 1 0</time>
 									<value>0</value>
-									<inputTangentTime>-0.077777777777777779</inputTangentTime>
+									<inputTangentTime>-0.083333333333333287</inputTangentTime>
 									<inputTangentValue>0</inputTangentValue>
 									<outputTangentTime>0.10000000000000001</outputTangentTime>
 									<outputTangentValue>-0</outputTangentValue>
