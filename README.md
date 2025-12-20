@@ -62,12 +62,8 @@ To install individual templates:
 If you've made changes to the templates in Motion and want to sync them back to this repository:
 
 ```bash
-rsync -av --delete \
-  "$HOME/Movies/Motion Templates.localized/Titles.localized/Friendly TL/" \
-  "$HOME/Workspace/motion/titles/"
-rsync -av --delete \
-  "$HOME/Movies/Motion Templates.localized/Effects.localized/Friendly TL/" \
-  "$HOME/Workspace/motion/effects/"
+rsync -av --delete "$HOME/Movies/Motion Templates.localized/Titles.localized/Friendly TL/" titles/
+rsync -av --delete "$HOME/Movies/Motion Templates.localized/Effects.localized/Friendly TL/" effects/
 ```
 
 This will copy the installed templates back to the git project, keeping everything in sync.
